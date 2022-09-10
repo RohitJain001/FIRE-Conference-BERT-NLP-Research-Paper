@@ -20,7 +20,7 @@ We used a method that was focused on learning the semantic relationships between
 
 ### Results :
 
-##### Task 1 (Rank 5)
+##### Task 1 (Rank 4)
 Accuracy: 0.529 <br>
 Macro F1 Score:  0.503 <br>
 
