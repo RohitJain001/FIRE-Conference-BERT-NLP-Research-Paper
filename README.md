@@ -15,8 +15,7 @@
 
 
 ### Methodolgy
-The tweets are written in a slang language and because of this, it could be difficult to determine the stance of a tweet which is actually important for the government to do analysis so as the citizens are vaccinated on time. An efficient method is to be established so as these kind of tasks could be efficiently determined.
-We used a method that was focused on learning the semantic relationships between the sentence tokens that implied a relationship to the Covid19 vaccinations and could be mapped with the given classes. The whole job was viewed as an extension of a phrase classification problem, with task 1 requiring the prediction of three labels related to vaccine sentiment among the public and task 2 requiring the prediction of four labels related to the reporting of someone experiencing COVID19. By combining the knowledge already known derived from the data and the observations made during text Exploratory Data Analysis. The efficiency of the system was improved by combining our model after pre-processing with effective stop-word removal. We used these preprocessed tweets to train specialised algorithms such as Word2vec and BERT to efficiently handle sentence classification. The process of a deep learning-based transformers technique, which helped in getting perceptions of the text, was applied to the processed text in order to extract correct and quickly establish them with the associated labels in the data. 
+After preprocessing, we used tweets to train specialised algorithms such as Word2vec and BERT to efficiently handle sentence classification. The process of a deep learning-based transformers technique was applied. It helped in getting correct perceptions of the text and quickly establish them with the associated labels in the data. 
 
 ### Results :
 
