@@ -1,4 +1,4 @@
-# Forum for Information Retrieval Evaluation - Conference
+# Forum for Information Retrieval Evaluation
 
 ## Information Retrieval from Microblogs during Disasters (IRMiDis) 2022
 
